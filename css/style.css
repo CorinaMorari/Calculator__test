@@ -1,0 +1,19 @@
+/*//Main container*/
+.container{
+    display: flex;
+}
+
+/*sizes for divs*/
+.layout{
+    width: 50%;
+    height: 300px;
+}
+
+/*Colors for divs*/
+.left{
+    background-color: dodgerblue;
+}
+.right{
+    background-color: greenyellow;
+
+}
